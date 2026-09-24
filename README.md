@@ -1,4 +1,4 @@
-# ShopSphere — Complete AWS DevOps E-Commerce Project
+# ShopSphere — AWS DevOps E-Commerce Project
 
 Production-style architecture | Amazon EKS | Amazon RDS PostgreSQL | Linux | Jenkins | Terraform | GitOps
 
